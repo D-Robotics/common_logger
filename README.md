@@ -51,7 +51,7 @@ common_logger:是一个脱离ros的基于spdlog进行封装的功能包, 基于�
 比如设置日志的级别为:info
 
 ```
-SET_PACKAGE_LOG_LEVEL(package_log_name, spd::level::info)
+SET_PACKAGE_LOG_LEVEL(package_log_name, "info")
 ```
 
 ## 5.日志示例
