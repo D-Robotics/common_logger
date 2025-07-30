@@ -62,4 +62,4 @@ ros2 日志：
 
 common_logger日志：
 
-![](assets/20250730-195822.png)
+![](assets/20250730-195822.jpg)
