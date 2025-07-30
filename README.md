@@ -20,7 +20,7 @@ common_logger:是一个脱离ros的基于spdlog进行封装的功能包, 基于�
 1. 拉取代码(将代码拉取到和自己功能包同级目录下):
 
    ```
-   git clone https://github.com/D-Robotics/common_logger.gitgit clone 
+   git clone https://github.com/D-Robotics/common_logger.git 
    ```
 2. 编译代码
 
@@ -60,6 +60,6 @@ ros2 日志：
 
 ![]()![]()![](assets/20250730_195813_image.png)
 
-common_logger日志：20250730-195822
+common_logger日志：
 
 ![](assets/20250730-195822.png)
