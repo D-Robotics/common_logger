@@ -41,7 +41,7 @@ common_logger:是一个脱离ros的基于spdlog进行封装的功能包, 基于�
 1. 打印日志
 
    ```
-   LOG_INFO(package_log_namepackage_name, "remove_ground_config_file_path={}", config_path)
+   LOG_INFO(package_log_name, "remove_ground_config_file_path={}", config_path)
    ```
 
 2.设置日志输出级别
@@ -58,8 +58,8 @@ SET_PACKAGE_LOG_LEVEL(package_log_name, spd::level::info)
 
 ros2 日志：
 
-![1753875497689.png](../../../../assets/README/1753875497689.png)
+![](assets/20250730_200950_image.png)
 
 common_logger日志：
 
-![1753875540589.png](../../../../assets/README/1753875540589.png)
+![](assets/20250730_201044_image.png)
